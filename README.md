@@ -9,7 +9,7 @@ A [**python**](https://www.python.org) script for hiding secret text into public
 # Installation
 With `git` [GitHub](https://github.com):
 ```
-git clone https://github.com/IrtsaDevelopment/zwpy.git
+git clone https://github.com/irtsa-dev/zwpy.git
 ```
 With `pip` [PyPi](https://pypi.org/project/idev-zwpy/)
 ```
